@@ -1,0 +1,9 @@
+#hero{
+    background-image: url(../images/blue\ sky.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-color: #1f18189a;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+}
